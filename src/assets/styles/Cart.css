@@ -1,0 +1,61 @@
+
+.main-background{
+    position: absolute;
+height: 24px;
+left: 58px;
+right: 59px;
+top: 350px;
+    
+
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+
+text-align: center;
+letter-spacing: 0.15px;
+
+color: #000000;
+
+    
+
+}
+.serv{
+    position: absolute;
+    width: 350px;
+    height: 100px;
+    left: 25px;
+    top: 170px;
+background: url(https://i.ibb.co/g3jr83W/Captura-de-pantalla-2020-08-25-a-la-s-23-08-02.png)
+}
+.perf{
+    position: absolute;
+    width: 360px;
+    height: 123px;
+    left: 19px;
+    top: 300px;
+    
+background: url(https://i.ibb.co/25TTbpf/Captura-de-pantalla-2020-08-25-a-la-s-22-33-55.png)  
+}
+
+.pago{
+    position: absolute;
+    width: 360px;
+    height: 57px;
+    left: 17px;
+    top: 440px;
+background: url(https://i.ibb.co/M8P2gQy/Captura-de-pantalla-2020-08-25-a-la-s-22-34-28.png)
+}
+
+.conf{
+position: absolute;
+width: 156px;
+height: 48px;
+left: 116px;
+top: 573px;
+background: url(https://i.ibb.co/sHvFSLS/Captura-de-pantalla-2020-08-25-a-la-s-23-08-34.png)
+}
+
+

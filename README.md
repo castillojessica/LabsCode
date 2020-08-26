@@ -1,68 +1,56 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## PROYECTO:LAAPS
 
-In the project directory, you can run:
+Laaps es un emprendimiento dedicado al lavado de autos a domicilio sin utilizar agua,se realiza una single page application (SPA) desarrollada para el autolavado a domicilio.
 
-### `npm start`
+Esta construida para tres roles de colaborador,administrativo y cliente,que tienen diferentes permisos de acciones dentro de la aplicacion y puede ingresas mediante un login y llenar campos dependiendo del caso
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Demo:
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `npm test`
+## Desarrollo
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Esta aplicacion fue diseñada para usarse en un dispositivo telefonico y esta desarrollada con HTML,CSS,MATERIALIZECSS,Javascript y REACT,asi como Firebase paa la implementación de la base de datos.
 
-### `npm run build`
+## Mockup
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+![alt text]("https://i.ibb.co/jVqw29q/Captura-de-pantalla-2020-08-26-a-la-s-11-16-56.png")
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![alt text]("https://i.ibb.co/3Tb3rXM/Captura-de-pantalla-2020-08-26-a-la-s-11-17-42.png")
 
-### `npm run eject`
+![alt text]("https://i.ibb.co/M50yH6G/Captura-de-pantalla-2020-08-26-a-la-s-11-18-06.png")
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![alt text]("https://i.ibb.co/yfSwFhW/Captura-de-pantalla-2020-08-26-a-la-s-11-18-33.png")
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![alt text]("https://i.ibb.co/C5KwdYt/Captura-de-pantalla-2020-08-26-a-la-s-11-32-53.png")
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![alt text]("https://i.ibb.co/M2GrXmX/Captura-de-pantalla-2020-08-26-a-la-s-11-34-27.png")
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![alt text]("https://i.ibb.co/6Wp73xn/Captura-de-pantalla-2020-08-26-a-la-s-11-34-50.png")
 
-## Learn More
+![alt text]("https://i.ibb.co/gWbbxnC/Captura-de-pantalla-2020-08-26-a-la-s-11-35-19.png")
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![alt text]("https://i.ibb.co/WVBS0BK/Captura-de-pantalla-2020-08-26-a-la-s-11-36-32.png")
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Criterios de aceptación
 
-### Code Splitting
+## Historia de usuario
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+● Creación de Perfil Admin.
 
-### Analyzing the Bundle Size
+● El usuario registra auto con características como número de placa, foto, marca y color.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+● Se muestra ubicación actual del usuario sobre un mapa para determinar la ubicación para pedir el servicio. 
 
-### Making a Progressive Web App
+● Se solicita servicio, se le asigna un “lavador” Se le muestra información del lavador como nombre y foto y se le indica el tiempo de espera. 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+● El usuario puede cancelar el servicio.
 
-### Advanced Configuration
+● El trabajador recibe notificación de un servicio en espera. Lo acepta y se le muestra la ubicación. 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+● El trabajador tiene posibilidad de seleccionar la ubicación y buscar una ruta para llegar a través de aplicaciones como maps o waze. O en la misma webapp poder mostrar una ruta. 
 
-### Deployment
+● Tanto el usuario como el trabajador tienen un historial de servicios proporcionados o servicios pedidos.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+● El admin será capaz de visualizar toda esta data generada a través de la webapp, ver estadísticas y generar reportes. 
