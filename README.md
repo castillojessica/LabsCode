@@ -15,23 +15,23 @@ Esta aplicacion fue diseñada para usarse en un dispositivo telefonico y esta de
 ## Mockup
 
 
-![alt text]("https://i.ibb.co/jVqw29q/Captura-de-pantalla-2020-08-26-a-la-s-11-16-56.png")
+![alt text](https://i.ibb.co/jVqw29q/Captura-de-pantalla-2020-08-26-a-la-s-11-16-56.png)
 
-![alt text]("https://i.ibb.co/3Tb3rXM/Captura-de-pantalla-2020-08-26-a-la-s-11-17-42.png")
+![alt text](https://i.ibb.co/3Tb3rXM/Captura-de-pantalla-2020-08-26-a-la-s-11-17-42.png"
 
-![alt text]("https://i.ibb.co/M50yH6G/Captura-de-pantalla-2020-08-26-a-la-s-11-18-06.png")
+![alt text]("ttps://i.ibb.co/M50yH6G/Captura-de-pantalla-2020-08-26-a-la-s-11-18-06.png"
 
-![alt text]("https://i.ibb.co/yfSwFhW/Captura-de-pantalla-2020-08-26-a-la-s-11-18-33.png")
+![alt text](https://i.ibb.co/yfSwFhW/Captura-de-pantalla-2020-08-26-a-la-s-11-18-33.png)
 
-![alt text]("https://i.ibb.co/C5KwdYt/Captura-de-pantalla-2020-08-26-a-la-s-11-32-53.png")
+![alt text](https://i.ibb.co/C5KwdYt/Captura-de-pantalla-2020-08-26-a-la-s-11-32-53.png)
 
-![alt text]("https://i.ibb.co/M2GrXmX/Captura-de-pantalla-2020-08-26-a-la-s-11-34-27.png")
+![alt text](https://i.ibb.co/M2GrXmX/Captura-de-pantalla-2020-08-26-a-la-s-11-34-27.png)
 
-![alt text]("https://i.ibb.co/6Wp73xn/Captura-de-pantalla-2020-08-26-a-la-s-11-34-50.png")
+![alt text](https://i.ibb.co/6Wp73xn/Captura-de-pantalla-2020-08-26-a-la-s-11-34-50.png)
 
-![alt text]("https://i.ibb.co/gWbbxnC/Captura-de-pantalla-2020-08-26-a-la-s-11-35-19.png")
+![alt text](https://i.ibb.co/gWbbxnC/Captura-de-pantalla-2020-08-26-a-la-s-11-35-19.png)
 
-![alt text]("https://i.ibb.co/WVBS0BK/Captura-de-pantalla-2020-08-26-a-la-s-11-36-32.png")
+![alt text](https://i.ibb.co/WVBS0BK/Captura-de-pantalla-2020-08-26-a-la-s-11-36-32.png)
 
 ## Criterios de aceptación
 
